@@ -1,4 +1,5 @@
 import sys, time, os
+# require pythonnet
 import clr
 clr.AddReference(r'./ATK-DP100DLL(x64)')
 import ATK_DP100DLL
